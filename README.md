@@ -7,7 +7,7 @@ Tygvr, Tygvr burning bright in the forest of the night...
 ## THE TYGER (from Songs Of Experience)
 
 *By William Blake*
-
+```
 Tyger! Tyger! burning bright 
 In the forests of the night, 
 What immortal hand or eye 
@@ -31,5 +31,6 @@ Did he who made the Lamb make thee?
 Tyger! Tyger! burning bright 
 In the forests of the night, 
 What immortal hand or eye 
-Dare frame thy fearful symmetry? 
+Dare frame thy fearful symmetry?
+```
 _1794_
